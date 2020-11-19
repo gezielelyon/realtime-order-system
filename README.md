@@ -1,9 +1,9 @@
 # Ordering system:
 
-### React (Front-end)
-### React-Native (Mobile)
-### Nodejs (Back-end)
-### MongoDB (Database)
+##### React (Front-end)
+##### React-Native (Mobile)
+##### Nodejs (Back-end)
+##### MongoDB (Database)
 
 ![Capture OrderApp Web](https://user-images.githubusercontent.com/48457700/99608935-aa889d80-29ed-11eb-9485-3258e0a4dfa5.JPG)
 
