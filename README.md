@@ -9,7 +9,7 @@
 ![Styled Components](https://img.shields.io/badge/StyledComponents-Styles-blue)
 
 
-# Ordering system realtime (ReactJS, React-Native, NodeJS)
+# Order system realtime (ReactJS, React-Native, NodeJS)
 This project was created using ReactJs on Web, React-Native on Mobile, Nodejs on Backend. This order system is realtime, created with protocol websocket using SocketIO
 
 ## Technologies Used:
