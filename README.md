@@ -14,7 +14,7 @@
 ![GitHub license](https://img.shields.io/github/license/gezielelyon/realtime_order_system)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Language-blue)
-![HTML](https://img.shields.io/badge/HTML-Styles-red)
+![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
 ![React](https://img.shields.io/badge/React-components-orange)
 ![React Native](https://img.shields.io/badge/ReactNative-components-green)
