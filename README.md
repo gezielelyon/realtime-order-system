@@ -8,10 +8,10 @@
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/realtime_order_system)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/realtime_order_system)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/realtime_order_system)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/realtime_order_system)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/realtime-order-system)](https://github.com/gezielelyon/realtime-order-system/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/realtime-order-system)](https://github.com/gezielelyon/realtime-order-system/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/realtime-order-system)](https://github.com/gezielelyon/realtime-order-system/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/realtime-order-system)](https://github.com/gezielelyon/realtime-order-system)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Language-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
